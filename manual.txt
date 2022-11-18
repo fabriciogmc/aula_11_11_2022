@@ -1,3 +1,5 @@
 Versão 1 do manual
 
 Alterei o manual. A peça mudou.
+
+Alterei para a terceira versão.
